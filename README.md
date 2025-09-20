@@ -24,8 +24,8 @@
 - **Flutter (Dart)**: Cross-platform mobile development
 
 ### Backend
-- **Languages**: PHP, Python, JavaScript (Node.js)
-- **Frameworks**: Express.js, Laravel, Django (basic)
+- **Languages**: PHP, Python, JavaScript (Node.js), Dart, Flutter
+- **Frameworks**: Express.js, Laravel, Nextjs, Angular
 
 ### Databases
 - **SQL**: PostgreSQL
