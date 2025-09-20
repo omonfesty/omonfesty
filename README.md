@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 ### Frontend
-- **Frameworks/Libraries**: Angular, Next.js, React
+- **Frameworks/Libraries**: Angular, Next.js
 - **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS
 - **UI/UX Tools**: Tailwind CSS, Bootstrap, Material UI
 
