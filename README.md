@@ -39,16 +39,12 @@
 ---
 
 ## 🌟 Featured Projects
-- 🔹 **trizbot.com** – Short description of what it does and tech used.
-- 🔹 **http://slloydhr.com/** – Short description of what it does and tech used.
-- 🔹 **http://solidpyco.com** – Short description of what it does and tech used.
+- 🔹 **http://trizbot.com** 
+- 🔹 **http://slloydhr.com/** 
+- 🔹 **http://solidpyco.com** 
 
 ---
 
-## 🤝 Let’s Connect
-- 💼 LinkedIn: [Your LinkedIn](#)  
-- 🌍 Portfolio: [Your Website](#)  
-- 🐦 Twitter: [Your Twitter](#)
 
 ---
 ✨ *"Building solutions today that power the innovations of tomorrow."*
